@@ -1,8 +1,12 @@
 ﻿<Properties StartupConfiguration="{1C28C358-3584-42AB-8DA6-4634695861B3}|Default">
   <MonoDevelop.Ide.ItemProperties.ContosoUniversity PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Data/SchoolContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/DbInitializer.cs">
     <Files>
       <File FileName="Data/SchoolContext.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="42" Column="45" />
+      <File FileName="Program.cs" Line="47" Column="2" />
+      <File FileName="Data/DbInitializer.cs" Line="19" Column="115" />
+      <File FileName="Models/Student.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,18 +14,10 @@
           <Node name="ContosoUniversity" expanded="True">
             <Node name="ContosoUniversity" expanded="True">
               <Node name="Data" expanded="True">
-                <Node name="SchoolContext.cs" selected="True" />
+                <Node name="DbInitializer.cs" selected="True" />
               </Node>
               <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Students" expanded="True">
-                  <Node name="Create.cshtml" expanded="True" />
-                  <Node name="Delete.cshtml" expanded="True" />
-                  <Node name="Details.cshtml" expanded="True" />
-                  <Node name="Edit.cshtml" expanded="True" />
-                  <Node name="Index.cshtml" expanded="True" />
-                </Node>
-              </Node>
+              <Node name="Pages" expanded="True" />
               <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
