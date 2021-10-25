@@ -1,6 +1,10 @@
 ﻿<Properties StartupConfiguration="{1C28C358-3584-42AB-8DA6-4634695861B3}|Default">
   <MonoDevelop.Ide.ItemProperties.ContosoUniversity PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Students/Delete.cshtml">
+    <Files>
+      <File FileName="Pages/Students/Delete.cshtml.cs" Line="80" Column="2" />
+      <File FileName="Pages/Students/Delete.cshtml" Line="10" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -11,7 +15,7 @@
               <Node name="Pages" expanded="True">
                 <Node name="Students" expanded="True">
                   <Node name="Create.cshtml" expanded="True" />
-                  <Node name="Details.cshtml" expanded="True" />
+                  <Node name="Delete.cshtml" expanded="True" selected="True" />
                 </Node>
               </Node>
               <Node name="appsettings.json" expanded="True" />
