@@ -7513,7 +7513,7 @@
       "outputPath": "/Users/rhettbooher/Documents/GitHub/RBooher13.github.io/csci340lab8/ContosoUniversity/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/rhettbooher/.config/NuGet/NuGet.Config"
+        "/Users/rhettbooher/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
