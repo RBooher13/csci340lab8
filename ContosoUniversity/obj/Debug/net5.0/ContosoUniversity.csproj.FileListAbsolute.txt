@@ -171,3 +171,8 @@
 /Users/rhettbooher/Documents/GitHub/RBooher13.github.io/csci340lab8/ContosoUniversity/obj/Debug/net5.0/Razor/Pages/Students/Edit.cshtml.g.cs
 /Users/rhettbooher/Documents/GitHub/RBooher13.github.io/csci340lab8/ContosoUniversity/obj/Debug/net5.0/Razor/Pages/Students/Index.cshtml.g.cs
 /Users/rhettbooher/Documents/GitHub/RBooher13.github.io/csci340lab8/ContosoUniversity/obj/Debug/net5.0/Razor/Pages/About.cshtml.g.cs
+/Users/rhettbooher/Documents/GitHub/RBooher13.github.io/csci340lab8/ContosoUniversity/obj/Debug/net5.0/Razor/Pages/Courses/Create.cshtml.g.cs
+/Users/rhettbooher/Documents/GitHub/RBooher13.github.io/csci340lab8/ContosoUniversity/obj/Debug/net5.0/Razor/Pages/Courses/Delete.cshtml.g.cs
+/Users/rhettbooher/Documents/GitHub/RBooher13.github.io/csci340lab8/ContosoUniversity/obj/Debug/net5.0/Razor/Pages/Courses/Details.cshtml.g.cs
+/Users/rhettbooher/Documents/GitHub/RBooher13.github.io/csci340lab8/ContosoUniversity/obj/Debug/net5.0/Razor/Pages/Courses/Edit.cshtml.g.cs
+/Users/rhettbooher/Documents/GitHub/RBooher13.github.io/csci340lab8/ContosoUniversity/obj/Debug/net5.0/Razor/Pages/Courses/Index.cshtml.g.cs
