@@ -1,12 +1,11 @@
 ﻿<Properties StartupConfiguration="{1C28C358-3584-42AB-8DA6-4634695861B3}|Default">
   <MonoDevelop.Ide.ItemProperties.ContosoUniversity PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Courses/Edit.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Courses/Details.cshtml">
     <Files>
-      <File FileName="Pages/DepartmentNamePageModel.cs" Line="24" Column="2" />
-      <File FileName="Pages/Courses/Create.cshtml.cs" Line="44" Column="2" />
-      <File FileName="Pages/Courses/Create.cshtml" Line="45" Column="2" />
-      <File FileName="Pages/Courses/Edit.cshtml.cs" Line="68" Column="2" />
-      <File FileName="Pages/Courses/Edit.cshtml" Line="48" Column="2" />
+      <File FileName="Pages/Courses/Delete.cshtml.cs" Line="42" Column="10" />
+      <File FileName="Pages/Courses/Details.cshtml.cs" Line="41" Column="10" />
+      <File FileName="Pages/Courses/Delete.cshtml" Line="44" Column="7" />
+      <File FileName="Pages/Courses/Details.cshtml" Line="41" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,8 +15,8 @@
               <Node name="Data" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="Courses" expanded="True">
-                  <Node name="Create.cshtml" expanded="True" />
-                  <Node name="Edit.cshtml" expanded="True" selected="True" />
+                  <Node name="Details.cshtml" expanded="True" selected="True" />
+                  <Node name="Edit.cshtml" expanded="True" />
                 </Node>
               </Node>
             </Node>
