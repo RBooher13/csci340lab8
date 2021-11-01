@@ -1,5 +1,4 @@
-﻿#if SQLiteVersion
-using System;
+﻿using System;
 
 namespace ContosoUniversity
 {
@@ -12,15 +11,3 @@ namespace ContosoUniversity
         }
     }
 }
-#else
-namespace ContosoUniversity
-{
-    public static class Utility
-    {
-        public static string GetLastChars(byte[] token)
-        {
-            return token[7].ToString();
-        }
-    }
-}
-#endif
